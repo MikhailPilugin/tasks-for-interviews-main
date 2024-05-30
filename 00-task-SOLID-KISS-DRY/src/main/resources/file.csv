@@ -1,0 +1,13 @@
+question,answer,correct
+What year was the first Iron Man movie released kicking off the Marvel Cinematic Universe?,2005,false
+What year was the first Iron Man movie released kicking off the Marvel Cinematic Universe?,2008,true
+What year was the first Iron Man movie released kicking off the Marvel Cinematic Universe?,2012,false
+Which Avenger does Thor team up with in Thor: Ragnarok?,Hulk,true
+Which Avenger does Thor team up with in Thor: Ragnarok?,Hawkeye,false
+Which Avenger does Thor team up with in Thor: Ragnarok?,Iron Man,false
+In which fictional country is Black Panther set?,Wakanda,true
+In which fictional country is Black Panther set?,Latveria,false
+In which fictional country is Black Panther set?,Genosha,false
+In which film did Black Widow first appear?,Avengers Assemble,false
+In which film did Black Widow first appear?,The Incredible Hulk,false
+In which film did Black Widow first appear?,Iron Man 2,true
